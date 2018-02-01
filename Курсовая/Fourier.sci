@@ -1,4 +1,4 @@
-//Решетина Алла, 5307 подгруппа 3
+
 function [] = Fourier(Hs, tau, A)
     exec 'Heaviside.sci';
     exec 'delta2.sce';
